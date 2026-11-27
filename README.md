@@ -17,7 +17,7 @@ We will use two databases.
 - Which cities have the best combined indicators (efficient mobility and a strong economy)?
 - Which variables appear to have a stronger relationship with urban development?
 
-**Methodology
+**Methodology**
  - **Data processing**.
  - **Explore, clean, and prepare data**. 
  - **Analyze and resume mobile data**.
