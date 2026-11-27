@@ -24,3 +24,14 @@ We will use two databases.
  - **Merge mobile and economic data**.
  - **Visualize and analyse relationships**.
  - **Export and document results**.
+
+**Run the notebook.**
+
+Attached is the notebook: "mobility_economy_project.ipynb" to open it in Google Colab, follow these steps:
+
+How do I run the notebook?
+1. Click the “Open in Colab” logo <a href="https://github.com/samyfs-DA/tomtom/blob/main/mobility_economy_project.ipynb"> <img width="151" height="29" alt="image" src="https://github.com/user-attachments/assets/929c4364-5fa9-46d3-82ac-37ccb6d6ba5b" /> </a>
+
+The datasets are already in this repository; simply run the cells in order from the first to the last (Runtime > Run all).
+
+<img width="689" height="103" alt="image" src="https://github.com/user-attachments/assets/b8e76ea1-64c4-44bc-ac8d-7dcffcd5a3d4" />
